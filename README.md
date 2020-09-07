@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, bash, JavaScript**
 
-- 📫 How to reach me **mohitttinu@gmail.com**
+- 📫 How to reach me **ogranny.github.io@gmail.com**
 
 - ⚡ Fun fact **A baby spider is called spiderling**
 
