@@ -17,7 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogranny&layout=compact" alt="ogranny" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogranny&show_icons=true" alt="ogranny" /></p>
-
-<p align="center">
-<a href="https://medium.com/@ogranny.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ogranny.github.io" height="30" width="30" /></a>
-</p>
