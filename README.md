@@ -18,4 +18,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogranny&layout=compact" alt="ogranny" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogranny&show_icons=true" alt="ogranny" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogranny&show_icons=true" alt="ogranny" /></p>
