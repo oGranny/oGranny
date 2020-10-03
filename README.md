@@ -1,4 +1,4 @@
-<h2 style="align: center">👋hi! I am Mohit</h2>
+<h2 style="align: center;">👋hi! I am Mohit</h2>
 
 <h3 align="center">A passionate developer from India</h3>
 
