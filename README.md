@@ -6,6 +6,9 @@
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
+<picture>
+  <img src="/metrics.plugin.isocalendar.svg" alt="Metrics">
+</picture>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogranny&layout=compact" alt="ogranny" /></p>
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogranny&show_icons=true" alt="ogranny" /></p>
