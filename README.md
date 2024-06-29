@@ -9,7 +9,7 @@
 <!-- <img align="left" width="390" alt="🦑" src="/metrics.plugin.topics.icons.svg">   -->
 <img align="right" width="390" alt="🦑" src="/metrics.plugin.achievements.svg">  
 <img align="left" width="390" alt="🦑" src="/metrics.plugin.habits.facts.svg">  
-<!-- <img align="left" width="390" alt="🦑" src="/metrics.plugin.16personalities.svg">   -->
+<img align="left" width="390" alt="🦑" src="/metrics.plugin.16personalities.svg">  
 <img align="right" width="390" alt="🦑" src="/metrics.plugin.languages.svg">  
 
 
