@@ -6,10 +6,10 @@
 <img align="left" width="390" alt="🦑" src="./github-metrics.svg">
 <img align="left" width="390" alt="🦑" src="/metrics.plugin.isocalendar.svg">
 <img align="right" width="390" alt="🦑" src="/metrics.plugin.traffic.svg">  
-<img align="left" width="390" alt="🦑" src="/metrics.plugin.topics.icons.svg">  
-<img align="left" width="390" alt="🦑" src="/metrics.plugin.languages.svg">  
+<!-- <img align="left" width="390" alt="🦑" src="/metrics.plugin.topics.icons.svg">   -->
 <img align="left" width="390" alt="🦑" src="/metrics.plugin.achievements.svg">  
-<img align="left" width="390" alt="🦑" src="/metrics.plugin.habits.svg">  
+<img align="left" width="390" alt="🦑" src="/metrics.plugin.habits.facts.svg">  
 <img align="left" width="390" alt="🦑" src="/metrics.plugin.16personalities.svg">  
+<img align="right" width="390" alt="🦑" src="/metrics.plugin.languages.svg">  
 
 
